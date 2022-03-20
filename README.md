@@ -4,3 +4,5 @@
 
 Enlace del proyecto en Colab
 https://colab.research.google.com/drive/1LKVG93cnS4Ci2wckVDKbEtskGNzbCPc5?usp=sharing
+
+Enlace de video https://youtu.be/_Timu7SNyBY
